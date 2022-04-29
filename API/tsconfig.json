@@ -1,0 +1,14 @@
+
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "target": "es6",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "dist", //output in file dist when build TS
+      "rootDir": "src", //the place where have TS code
+      // "strict": true
+    },
+    "lib": ["es2015"]
+  }
